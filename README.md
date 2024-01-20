@@ -1,4 +1,4 @@
-'بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+'#بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 #RANDOM PASSWORD GENERATOR
 
 I do realise that the later has various challanges ie:
