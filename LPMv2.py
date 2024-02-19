@@ -1,6 +1,6 @@
 #! /bin/python
-#Code by Mchana
-#This is version I
+#FranklinMchana
+#This is version II
 import string , random , sqlite3
 import pyAesCrypt as pyenc
 from sqlite3 import Error
